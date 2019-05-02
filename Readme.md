@@ -1,7 +1,7 @@
 # Учебный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
-* Студент: [eteries](https://up.htmlacademy.ru/react/1/user/34198).
-* Наставник: `Неизвестно`.
+* Студент: [Сергей Яньшин](https://htmlacademy.ru/profile/id34198).
+* Наставник: [Евгений Штурман](https://htmlacademy.ru/profile/id73551).
 
 ---
 
